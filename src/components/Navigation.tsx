@@ -6,7 +6,7 @@ const Navigation = () => {
   return (
     <nav className="bg-[#2C3E50] text-white p-4 shadow-md">
       <div className="container mx-auto flex justify-between items-center">
-        <h1 className="text-xl font-bold">网球技能提升</h1>
+        <h1 className="text-xl font-bold">Learning Tennis</h1>
         <div className="flex space-x-6">
           <Link 
             to="/" 
